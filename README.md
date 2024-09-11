@@ -9,22 +9,22 @@ Welcome to the **Wicked Cool Perl Scripts Collection**! This repository features
 - [Scripts](#scripts)
 - [Contributing](#Contributing)
 
-## Introduction
+## Introduction 🚪
 
 This repository is dedicated to providing practical Perl scripts that can be used as-is or modified to suit your needs.
 
-## Scripts
+## Scripts 🔧
 
 The following scripts are included in this repository:
 
-- [c4cf](./scripts/c4cf/) - Check a filesystem and report any changes made since the last time the script was run.
+- 🕵️ [c4cf](./scripts/c4cf/) - Check a filesystem and report any changes made since the last time the script was run.
 
 Feel free to explore the `scripts` for more details on each script.
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! If you have scripts or improvements to share, please submit a pull request.
 
-## License
+## License 👮‍♂️
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
