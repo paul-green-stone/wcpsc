@@ -16,4 +16,4 @@ This script checks a filesystem and reports any changes made since the last time
 perl c4cf.pl [OPTIONS]
 ```
 
-![](../../gifs/c4cf.mp4)
+![](../../gifs/c4cf.gif)
